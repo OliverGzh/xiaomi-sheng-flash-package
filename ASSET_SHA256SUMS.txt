@@ -1,0 +1,8 @@
+22df5d70909acaed625bfeb93d4ecd0c750e4428055cba7b8ffcd6ca4fad0338  xiaomi-sheng-flash-package-20261114.tar.zst.part001
+1ac0dd9d9845701047de451be72149d939ef3e3bd99bfa7d1f358bb7b201ca24  xiaomi-sheng-flash-package-20261114.tar.zst.part002
+2febccca72efeac555342f48f927a6f2926dde7a3501a7b031eaa3399faebcd8  xiaomi-sheng-flash-package-20261114.tar.zst.part003
+5d4ae951285895255912da5d2e45221ad5fea7151977ae6d04cba4bbf1e658d1  xiaomi-sheng-flash-package-20261114.tar.zst.part004
+1d42693d8e5df64a3556406ed0f57cef5dcdfe0bceca34e14335c2932778d5dd  xiaomi-sheng-flash-package-20261114.tar.zst.part005
+4681c6bc4dc703a829b5cf3da44f7e3b1550dba16fc225d358bac213474151ef  xiaomi-sheng-flash-package-20261114.tar.zst.part006
+2f88507d7224393ab3c7dd74c9fa9da182dbcef8fc339d75958f21c10982b75d  xiaomi-sheng-flash-package-20261114.tar.zst.part007
+06a43ee6ca365f1326dfce1640d1804f71144cb671d2cb3b828d61e5f518fc89  xiaomi-sheng-flash-package-20261114.tar.zst.part008
