@@ -1,0 +1,6 @@
+/.publish/
+/images/*.img
+/images/*.raw
+*.tar.zst
+*.part[0-9]*
+__pycache__/

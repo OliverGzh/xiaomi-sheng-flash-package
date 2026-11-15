@@ -1,0 +1,2 @@
+fde55af6d33c4cae07434618d7fc1eae  images/boot.img
+05774e3a1795e46547b024c4a2bd7fb9  images/userdata.img
